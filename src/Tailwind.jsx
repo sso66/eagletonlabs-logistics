@@ -2,7 +2,7 @@ import React from 'react'
 
 const ResponsiveText = () => {
   return (
-    <div className='bg-gray-200 p-4' style={{ background: 'rbba(0,0,0, 0%' }}>
+    <div className='bg-gray-200 p-4' style={{ background: 'rgba(0,0,0, 100%' }}>
       <p className='text-red md:text-blue'>
         Responsive Text: This text is red on small screens and blue on medium
         screens and larger.
